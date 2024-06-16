@@ -76,14 +76,7 @@ function Home2() {
                 </a>
               </li>
               <li className="social-icons">
-                {/* <a
-                  href="https://twitter.com/Soumyajit4419"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <AiOutlineTwitter />
-                </a> */}
+              
               </li>
               <li className="social-icons">
                 <a
@@ -97,7 +90,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/_its__shivam_011?igsh=MWE2c3Y2NTlkYXg3Yg=="
+                  href="https://www.instagram.com/_shivam_kumar__14?igsh=MWE2c3Y2NTlkYXg3Yg=="
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"

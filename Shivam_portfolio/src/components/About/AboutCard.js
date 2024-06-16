@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Shivam kumar </span>
             from <span className="purple"> East Champaran,Bihar, India.</span>
             <br />
-            I am currently as a WEB developer.
+            I am a WEB developer.
             <br />
             Currently i am pursuing my b.tech from Shivalik college engineering Dehradun.
             <br />
