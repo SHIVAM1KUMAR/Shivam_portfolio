@@ -76,8 +76,17 @@ function Home2() {
                 </a>
               </li>
               <li className="social-icons">
+              <a
+                href="https://x.com/ShivamKuma35835"
+                style={{ color: "white" }}
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="icon-colour  home-social-icons"
+              >
+                <AiOutlineTwitter />
+              </a>
+            </li>
               
-              </li>
               <li className="social-icons">
                 <a
                   href="https://www.linkedin.com/in/shivam-kumar-36938323a/"
